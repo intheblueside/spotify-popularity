@@ -1,6 +1,6 @@
 # Spotify: What Makes A Song Popular? 
 
-A data mining project where we uncover insights that influences Spotify’s track popularity.
+WIE007 data mining project where we uncover insights that influences Spotify’s track popularity.
 SAS SEMMA methodology (Sample, Explore, Modify, Model, Asses) was used to acheive projects objective.
 
 Models Used: Neural network, Linear Regression, Ridge Regression, Lasso Regression, Light GBM, H2O AutoML
